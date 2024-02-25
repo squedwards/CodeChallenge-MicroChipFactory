@@ -1,4 +1,4 @@
-# SpronQ Microchip Factory Code-challenge
+# Microchip Factory Code-challenge
 ## Assignment: Balance Bots
 
 You come upon a factory in which many robots are zooming around handing small microchips to each other.
